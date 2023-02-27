@@ -1,0 +1,49 @@
+.background-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 40vh;
+    background-size: cover;
+}
+
+.background-text {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+
+}
+
+.items-box {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.item-box {
+    text-align: center;
+    background-color: white;
+    width: 200px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+
+
+}
+
+.balloon-name {
+
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+    padding: 8px;
+
+}
+
+.rate {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    padding: 1px;
+}
